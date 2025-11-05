@@ -17,3 +17,5 @@ This project demonstrates the deployment of MITRE ATT&CK techniques using Atomic
 3. SIEM Configuration and Telemetry Analysis
 4. Windows Environment Setup for Attack Simulation
 5. PowerShell Scripting for Exploit Execution
+
+https://github.com/JonSecOps/Detecting-Local-Account-Creation-T1136.001-with-Atomic-Red-Team-and-Splunk/blob/main/Detecting%20Local%20Account%20Creation%20(T1136.001)%20with%20Atomic%20Red%20Team%20and%20Splunk.pdf
